@@ -3,10 +3,6 @@
 - 📝I am currently studying .NET Foundation
 - 📚 I am currently learning english
 - 💻 I'm Studying to Collaborate with Information Security Advances 
-- 🔔 How to reach me:
-  ° Instagram: Micael_333
-  ° Email:micaeldossantosoliv@gmail.com
-  
 
    Studying…
   █▒▒▒▒▒▒▒▒▒
