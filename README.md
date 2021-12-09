@@ -1,8 +1,8 @@
 
-          👩‍💻 Hi I'm MikkelXP 👩‍💻
-- 📝I am currently studying .NET Foundation
-- 📚 I am currently learning english
-- 💻 I'm Studying to Collaborate with Information Security Advances 
+          👩‍💻 Hi I'm Micael SO 👩‍💻
+- 📝I'm majoring in Systems Analysis and Development
+- 📚 I'm studying web development at Órbi Conecta
+- 💻I'm currently developing with: HTML5, CSS3, Javascript, Data Structure in Java, SQL server, c# .NET, ReactJs and Visual Studio code
 
    Studying…
   █▒▒▒▒▒▒▒▒▒
