@@ -1,27 +1,32 @@
 
           👩‍💻 Hi I'm Micael SO 👩‍💻
 - 📝I'm majoring in Systems Analysis and Development
-- 📚 I'm studying web development at Órbi Conecta
-- 💻I'm currently developing with: c# and Visual Studio code
-
+  
   Studying…
   █▒▒▒▒▒▒▒▒▒
  
- 
- <div align="center">
+<div align="center">
   <a href="https://github.com/MikkelXP">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MikkelXP&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikkelXP&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  <div style="display: inline_block"><br><img align="center" alt="Rafa-CSS" height="30" width="40" 
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-            <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/52612018/138493776-7649dfa0-acab-4032-810b-ebaa32c3f3e9.jpg">
-            
+ <img align="center" alt="MIcael-linux" height="30" width="40" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+ <img align="center" alt="MIcael-Vscode" height="30" width="40" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
+ <img align="center" alt="MIcael-csharp" height="30" width="40" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg">
+ <img align="center" alt="MIcael-Java" height="30" width="40" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+
    ##
-  
-  <div> 
-  <a href="https://instagram.com/micael_333" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 	
-  <a href = "mailto:micaeldossantosoliv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/micael-dos-santos-oliveira-b934b9224/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+          
  </div>
-   
+ <a href="https://www.instagram.com/micael_333/"targer="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>                                     div align="center"
+img src="" width="0px" /
+/div
+ 
+          
+          
+          
+ 
