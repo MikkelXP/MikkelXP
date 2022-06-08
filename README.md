@@ -3,7 +3,7 @@
 <div align="center">
   <a href="https://github.com/MikkelXP">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=MikkelXP&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=tru"/>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikkelXP&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikkelXP&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
  <img align="center" alt="MIcael-linux" height="30" width="40" 
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
