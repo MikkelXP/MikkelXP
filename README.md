@@ -5,7 +5,8 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=MikkelXP&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=tru"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikkelXP&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-  <center>
+
+  <div align="center">
  <img align="center" alt="MIcael-linux" height="30" width="40" 
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
  <img align="center" alt="MIcael-Vscode" height="30" width="40" 
@@ -16,7 +17,8 @@
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
   <img align="center" alt="MIcael-Java" height="30" width="40" 
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
-  </center>
+  </div>
+  
           
    ##
           
