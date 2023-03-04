@@ -9,11 +9,9 @@
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
  <img align="center" alt="MIcael-Vscode" height="30" width="40" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
- <img align="center" alt="MIcael-csharp" height="30" width="40" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg">
  <img align="center" alt="MIcael-Java" height="30" width="40" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
    ##
           
  </div>
