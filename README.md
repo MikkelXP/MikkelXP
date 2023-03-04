@@ -1,5 +1,4 @@
 ## Olá! Eu sou um desenvolvedor apaixonado por JavaScript, HTML5 e CSS3 e este é o meu perfil do GitHub. Aqui você pode encontrar projetos que desenvolvi, experimentos e soluções de código para desafios que encontrei no meu trabalho diário.
-Se você também é um desenvolvedor interessado em JavaScript, HTML5 e CSS3, siga-me para acompanhar meus projetos e experimentos. Vamos compartilhar conhecimento e ideias para construir soluções web cada vez mais sofisticadas e envolventes!
 
 <div align="center">
   <a href="https://github.com/MikkelXP">
